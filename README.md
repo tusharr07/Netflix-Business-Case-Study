@@ -2,19 +2,19 @@
 
 The objective of this project is to analyze the given Netflix dataset and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
-About the Dataset:
+# About the Dataset:
 Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they had over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 
-Business Problem:
+# Business Problem:
 Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
-Libraries Used:
+# Libraries Used:
 Numpy
 Pandas
 Matplotlib
 Seaborn
 
-Business Insights and Recommendations:
+# Business Insights and Recommendations:
 We have 6131 Movies compared to 2676 TV Shows which is like 2.3x of TV Shows, But in recent years, the trend has changed. In the last 5 years, the Movies proportion has reduced from ~75% to ~47% while TV Show's share has increased from ~25% to ~53%. This reflects that over the period a smaller number of Movies are getting released while more and more TV Shows are getting aired.
 Netflix is currently serving mostly Mature audiences or Children with parental guidance (around 80% of content on Netflix). It has scope to cater to other audiences as well such as family men, Senior citizens, kids of various ages, etc.
 It is observed that shorter-duration content is on the rise in the last 10 years. (duration 75 to 150 minutes and seasons 1 to 3) . This can be considered while production of new content on Netflix.
