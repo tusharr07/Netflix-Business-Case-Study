@@ -1,5 +1,5 @@
 ![dcl-650-Bx5-8M-y0sI-unsplash](https://github.com/tusharr07/Netflix-Business-Case-Study/assets/163878501/999b655c-80c6-4da8-91a4-8ef3f833d299)
-# Netflix-Case-Study---EDA using Python
+# Netflix-Case-Study -- EDA using Python
 **The objective of this project is to analyze the given Netflix dataset and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.**
 
 ## About the Dataset:
